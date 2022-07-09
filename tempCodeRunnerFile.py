@@ -1,2 +1,1 @@
-
-        print('name1 :',self.name )
+"aaasdf23"
